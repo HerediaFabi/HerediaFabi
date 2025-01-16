@@ -23,9 +23,9 @@
   │
   └─────────────────────────────────────────▰▰▰●•⋅
   </pre>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=600&pause=1000&color=00AAFF&width=435&lines=Skill+set++-%E2%8E%BD__%E2%8E%BD-%E2%8E%BB%E2%8E%BA%E2%8E%BA%E2%8E%BB-%E2%8E%BD__%E2%8E%BD--%E2%8E%BB%E2%8E%BA%E2%8E%BA%E2%8E%BB-)](https://git.io/typing-svg)
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux,express,sequelize,bootstrap,tailwind,less)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=net,cs,java,py,vscode,visualstudio,git,github,discord,)](https://skillicons.dev)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&pause=1000&color=00AAFF&width=435&lines=Skill+set++-%E2%8E%BD__%E2%8E%BD-%E2%8E%BB%E2%8E%BA%E2%8E%BA%E2%8E%BB-%E2%8E%BD__%E2%8E%BD--%E2%8E%BB%E2%8E%BA%E2%8E%BA%E2%8E%BB-" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux,express,sequelize,bootstrap,tailwind,less" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=net,cs,java,py,vscode,visualstudio,git,github,discord" /></a>
   <pre>
   ┌──┤ PERSONAL ├─────────▰▰▰●•⋅
   │
@@ -35,7 +35,7 @@
   │
   └───────────────────────────────▰▰▰●•⋅
   </pre>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1300&color=00AAFF&width=435&height=30&lines=%C2%A1Gracias+por+leerme!+%E2%9D%A4%EF%B8%8E)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&pause=1300&color=00AAFF&width=435&height=30&lines=%C2%A1Gracias+por+leerme!+%E2%9D%A4%EF%B8%8E" /></a>
 </details>
 <details>
 <summary>English Profile 💛👩‍💻</summary>
@@ -61,9 +61,9 @@
   │
   └─────────────────────────────────────────▰▰▰●•⋅
   </pre>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=600&pause=1000&color=00AAFF&width=435&lines=Skill+set++-%E2%8E%BD__%E2%8E%BD-%E2%8E%BB%E2%8E%BA%E2%8E%BA%E2%8E%BB-%E2%8E%BD__%E2%8E%BD--%E2%8E%BB%E2%8E%BA%E2%8E%BA%E2%8E%BB-)](https://git.io/typing-svg)
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux,express,sequelize,bootstrap,tailwind,less)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=net,cs,java,py,vscode,visualstudio,git,github,discord,)](https://skillicons.dev)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&pause=1000&color=00AAFF&width=435&lines=Skill+set++-%E2%8E%BD__%E2%8E%BD-%E2%8E%BB%E2%8E%BA%E2%8E%BA%E2%8E%BB-%E2%8E%BD__%E2%8E%BD--%E2%8E%BB%E2%8E%BA%E2%8E%BA%E2%8E%BB-" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux,express,sequelize,bootstrap,tailwind,less" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=net,cs,java,py,vscode,visualstudio,git,github,discord" /></a>
   <pre>
   ┌──┤ PERSONAL ├─────────▰▰▰●•⋅
   │
@@ -73,7 +73,7 @@
   │
   └───────────────────────────────▰▰▰●•⋅
   </pre>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1300&color=00AAFF&width=435&height=30&lines=%C2%A1Thanks+for+read+me!+%E2%9D%A4%EF%B8%8E)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&pause=1300&color=00AAFF&width=435&height=30&lines=%C2%A1Thanks+for+read+me!+%E2%9D%A4%EF%B8%8E" /></a>
 </details>
 
 
